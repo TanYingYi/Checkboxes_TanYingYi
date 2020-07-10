@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Checkboxes_TanYingYi</string>
+    <string name="chocolates_syrup">Chocolates syrup</string>
+    <string name="sprinkles">Sprinkles</string>
+    <string name="crushed_nuts">Crushed nuts</string>
+    <string name="cherries">Cherries</string>
+    <string name="oreo_cookie_crumbles">Oreo cookie crumbles</string>
+    <string name="show_toast_button">Show Toast</string>
+    <string name="showToast">Topping :</string>
+</resources>
